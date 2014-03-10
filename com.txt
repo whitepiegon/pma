@@ -1,1 +1,2 @@
 hello local repository
+hi remote repository
